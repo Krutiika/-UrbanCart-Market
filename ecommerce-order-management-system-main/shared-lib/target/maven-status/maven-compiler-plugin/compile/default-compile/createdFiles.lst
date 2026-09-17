@@ -1,0 +1,8 @@
+com\urbancart\shared\event\ShipmentCreatedEvent.class
+com\urbancart\shared\dto\ApiResponse.class
+com\urbancart\shared\dto\InventoryRequest.class
+com\urbancart\shared\event\OrderConfirmedEvent.class
+com\urbancart\shared\exception\BusinessException.class
+com\urbancart\shared\dto\OrderRequest.class
+com\urbancart\shared\dto\PaymentRequest.class
+com\urbancart\shared\event\PaymentCompletedEvent.class

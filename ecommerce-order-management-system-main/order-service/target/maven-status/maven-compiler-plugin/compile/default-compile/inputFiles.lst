@@ -1,0 +1,7 @@
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\order-service\src\main\java\com\urbancart\order\config\RabbitConfig.java
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\order-service\src\main\java\com\urbancart\order\controller\OrderController.java
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\order-service\src\main\java\com\urbancart\order\exception\GlobalExceptionHandler.java
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\order-service\src\main\java\com\urbancart\order\model\OrderEntity.java
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\order-service\src\main\java\com\urbancart\order\OrderServiceApplication.java
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\order-service\src\main\java\com\urbancart\order\repository\OrderRepository.java
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\order-service\src\main\java\com\urbancart\order\service\OrderService.java

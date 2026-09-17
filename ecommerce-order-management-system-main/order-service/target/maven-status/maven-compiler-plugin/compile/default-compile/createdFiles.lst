@@ -1,0 +1,7 @@
+com\urbancart\order\repository\OrderRepository.class
+com\urbancart\order\model\OrderEntity.class
+com\urbancart\order\service\OrderService.class
+com\urbancart\order\exception\GlobalExceptionHandler.class
+com\urbancart\order\config\RabbitConfig.class
+com\urbancart\order\controller\OrderController.class
+com\urbancart\order\OrderServiceApplication.class

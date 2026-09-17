@@ -1,0 +1,7 @@
+com\urbancart\shipping\service\ShippingService.class
+com\urbancart\shipping\controller\ShippingController.class
+com\urbancart\shipping\model\Shipment.class
+com\urbancart\shipping\repository\ShipmentRepository.class
+com\urbancart\shipping\config\RabbitConfig.class
+com\urbancart\shipping\ShippingServiceApplication.class
+com\urbancart\shipping\exception\GlobalExceptionHandler.class

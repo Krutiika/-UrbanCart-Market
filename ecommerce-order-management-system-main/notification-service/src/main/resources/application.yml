@@ -1,0 +1,21 @@
+server:
+  port: 8087
+spring:
+  application:
+    name: notification-service
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+app:
+  rabbitmq:
+    exchange: urbancart.exchange
+    order-confirmed-routing-key: order.confirmed
+    payment-completed-routing-key: payment.completed
+    shipment-created-routing-key: shipment.created

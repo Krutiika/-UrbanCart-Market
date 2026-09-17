@@ -1,0 +1,7 @@
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\inventory-service\src\main\java\com\urbancart\inventory\config\InventoryDataInitializer.java
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\inventory-service\src\main\java\com\urbancart\inventory\controller\InventoryController.java
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\inventory-service\src\main\java\com\urbancart\inventory\exception\GlobalExceptionHandler.java
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\inventory-service\src\main\java\com\urbancart\inventory\InventoryServiceApplication.java
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\inventory-service\src\main\java\com\urbancart\inventory\model\Inventory.java
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\inventory-service\src\main\java\com\urbancart\inventory\repository\InventoryRepository.java
+D:\KRUTIIKA\ecommerce-order-management-system\ecommerce-order-management-system-main\inventory-service\src\main\java\com\urbancart\inventory\service\InventoryService.java

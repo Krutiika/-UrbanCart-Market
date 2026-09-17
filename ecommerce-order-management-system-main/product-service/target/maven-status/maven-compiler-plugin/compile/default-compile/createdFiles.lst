@@ -1,0 +1,6 @@
+com\urbancart\product\service\ProductService.class
+com\urbancart\product\exception\GlobalExceptionHandler.class
+com\urbancart\product\model\Product.class
+com\urbancart\product\ProductServiceApplication.class
+com\urbancart\product\repository\ProductRepository.class
+com\urbancart\product\controller\ProductController.class

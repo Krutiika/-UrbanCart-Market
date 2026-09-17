@@ -1,0 +1,7 @@
+com\urbancart\inventory\service\InventoryService.class
+com\urbancart\inventory\controller\InventoryController.class
+com\urbancart\inventory\InventoryServiceApplication.class
+com\urbancart\inventory\config\InventoryDataInitializer.class
+com\urbancart\inventory\exception\GlobalExceptionHandler.class
+com\urbancart\inventory\repository\InventoryRepository.class
+com\urbancart\inventory\model\Inventory.class

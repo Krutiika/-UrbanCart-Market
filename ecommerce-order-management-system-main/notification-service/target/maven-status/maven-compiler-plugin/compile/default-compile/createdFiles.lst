@@ -1,0 +1,5 @@
+com\urbancart\notification\NotificationServiceApplication.class
+com\urbancart\notification\service\NotificationService.class
+com\urbancart\notification\config\RabbitConfig.class
+com\urbancart\notification\exception\GlobalExceptionHandler.class
+com\urbancart\notification\controller\NotificationController.class
